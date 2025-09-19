@@ -196,7 +196,7 @@ npm run preview
 
 ### 📌 Notas
 
-* El frontend usa **Minista**, por lo que soporta SSR y páginas tipo `/pages`.
+* El frontend usa **[Minista](https://github.com/qrac/minista)**, por lo que soporta SSR y páginas tipo `/pages`.
 * Estructura simple lista para desarrollo rápido y escalable.
 
 ---
