@@ -8,10 +8,10 @@
     "skipLibCheck": true,
     "noErrorTruncation": true,
     "jsx": "react-jsx",
-    "types": ["minista/client"],
+    "types": ["minista/client", "node"],
     "baseUrl": "src",
     "paths": {
-      "@components/*": ["components/*"],
+      "@components/*": ["components/*"]
     }
   },
   "include": ["./minista.config.ts", "src"]
