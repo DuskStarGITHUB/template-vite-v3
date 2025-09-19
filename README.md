@@ -148,6 +148,14 @@ template-vitev3/
 
 ## 🏗️ Cómo compilar el proyecto
 
+### Ambos
+Para construir el backend y generar los archivos en `dist/` de cada uno:
+
+```bash
+npm run build 'desde raiz'
+```
+
+
 ### Backend (NestJS)
 
 Para construir el backend y generar los archivos en `dist/`:
