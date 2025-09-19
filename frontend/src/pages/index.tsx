@@ -6,6 +6,8 @@ export default function () {
     <>
       <Head>
         <title>Hello!</title>
+        <link rel="icon" href="/img/icon.png" />
+        <link rel="stylesheet" href="/css/index.css" />
       </Head>
       <Example />
     </>
