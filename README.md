@@ -3,6 +3,9 @@
 Este repositorio es un **template fullstack** que combina **Frontend + Backend** en un solo entorno.
 La idea de este template es que, al clonarlo y ejecutar un comando, obtienes un **entorno completo de desarrollo** listo para empezar a programar.
 
+<img width="1355" height="646" alt="image" src="https://github.com/user-attachments/assets/d0b95e02-1464-4b35-b1ab-90490e725319" />
+
+
 ---
 
 ## 📂 Estructura del proyecto
